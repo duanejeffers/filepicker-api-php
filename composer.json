@@ -1,0 +1,19 @@
+{
+	"name":"duanejeffers/filepicker-api-php",
+	"description":"FilePicker API implemented in PHP with Guzzle",
+	"authors":[
+		{
+			"name":"Duane Jeffers",
+			"email":"duane@duanejeffers.com",
+			"homepage":"http://duanejeffers.com/",
+			"role":"Developer"
+		}
+	],
+	"version":"0.1",
+	"license":"MIT",
+	"autoload":{
+		"psr-4":{
+			"FilePicker\\":"src/"
+		}
+	}
+}
